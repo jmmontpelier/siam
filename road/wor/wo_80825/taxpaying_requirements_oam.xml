@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-2371298" name="taxpaying_requirements" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/Poster.png" width="960" height="424" />
+
+  <require type="other" src="taxpaying_requirements.html" />
+  <require type="other" src="images/Icon" />
+
+  <require type="javascript" src="taxpaying_requirements_edge.js" />
+  <require type="javascript" src="edge_includes/edge.6.0.0.min.js" />
+
+  <require type="image" src="images/basemap.png" />
+  <require type="image" src="images/br_CT.png" />
+  <require type="image" src="images/br_DE.png" />
+  <require type="image" src="images/br_GA.png" />
+  <require type="image" src="images/br_LA.png" />
+  <require type="image" src="images/br_MA.png" />
+  <require type="image" src="images/br_ME.png" />
+  <require type="image" src="images/br_MS.png" />
+  <require type="image" src="images/br_NC.png" />
+  <require type="image" src="images/br_NH.png" />
+  <require type="image" src="images/br_NJ.png" />
+  <require type="image" src="images/br_NY.png" />
+  <require type="image" src="images/br_PA.png" />
+  <require type="image" src="images/br_RI.png" />
+  <require type="image" src="images/br_SC.png" />
+  <require type="image" src="images/br_VA.png" />
+  <require type="image" src="images/btn_play.png" />
+  <require type="image" src="images/btn_stop.png" />
+  <require type="image" src="images/pl_CT.png" />
+  <require type="image" src="images/pl_LA.png" />
+  <require type="image" src="images/pl_ME.png" />
+  <require type="image" src="images/pl_MS.png" />
+  <require type="image" src="images/pl_NC.png" />
+  <require type="image" src="images/pl_NJ.png" />
+  <require type="image" src="images/pl_NY.png" />
+  <require type="image" src="images/pl_SC.png" />
+  <require type="image" src="images/pl_VA.png" />
+  <require type="image" src="images/Poster.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-2371298"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="960" hidden="true"/>
+    <property name="default-height" defaultValue="424" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="taxpaying_requirements.html" hidden="true"/>
+  </properties>
+
+</widget>

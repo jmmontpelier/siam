@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" id="tag:adobe.com,2012-03:edge:oam:compid:EDGE-10753605" name="womens_suffrage" version="1">
+
+  <description type="text/html"><![CDATA[Widget Exported from Adobe Edge (V1.DW.Edge)]]></description>
+  <category name="Adobe Edge Animation"/>
+
+  <remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+
+  <icon src="images/Poster.png" width="960" height="424" />
+
+  <require type="other" src="womens_suffrage.html" />
+  <require type="other" src="images/Icon" />
+
+  <require type="javascript" src="womens_suffrage_edge.js" />
+  <require type="javascript" src="edge_includes/edge.6.0.0.min.js" />
+
+  <require type="image" src="images/basemap.png" />
+  <require type="image" src="images/br_IA.png" />
+  <require type="image" src="images/br_IL.png" />
+  <require type="image" src="images/br_IN.png" />
+  <require type="image" src="images/br_ME.png" />
+  <require type="image" src="images/br_MN.png" />
+  <require type="image" src="images/br_MO.png" />
+  <require type="image" src="images/br_ND.png" />
+  <require type="image" src="images/br_NE.png" />
+  <require type="image" src="images/br_OH.png" />
+  <require type="image" src="images/br_RI.png" />
+  <require type="image" src="images/br_TN.png" />
+  <require type="image" src="images/br_WI.png" />
+  <require type="image" src="images/btn_play.png" />
+  <require type="image" src="images/btn_stop.png" />
+  <require type="image" src="images/or_AK.png" />
+  <require type="image" src="images/or_AL.png" />
+  <require type="image" src="images/or_AR.png" />
+  <require type="image" src="images/or_AZ.png" />
+  <require type="image" src="images/or_CA.png" />
+  <require type="image" src="images/or_CO.png" />
+  <require type="image" src="images/or_CT.png" />
+  <require type="image" src="images/or_DE.png" />
+  <require type="image" src="images/or_FL.png" />
+  <require type="image" src="images/or_GA.png" />
+  <require type="image" src="images/or_HI.png" />
+  <require type="image" src="images/or_IA.png" />
+  <require type="image" src="images/or_ID.png" />
+  <require type="image" src="images/or_IL.png" />
+  <require type="image" src="images/or_IN.png" />
+  <require type="image" src="images/or_KS.png" />
+  <require type="image" src="images/or_KY.png" />
+  <require type="image" src="images/or_LA.png" />
+  <require type="image" src="images/or_MA.png" />
+  <require type="image" src="images/or_MD.png" />
+  <require type="image" src="images/or_ME.png" />
+  <require type="image" src="images/or_MI.png" />
+  <require type="image" src="images/or_MN.png" />
+  <require type="image" src="images/or_MO.png" />
+  <require type="image" src="images/or_MS.png" />
+  <require type="image" src="images/or_MT.png" />
+  <require type="image" src="images/or_NC.png" />
+  <require type="image" src="images/or_ND.png" />
+  <require type="image" src="images/or_NE.png" />
+  <require type="image" src="images/or_NH.png" />
+  <require type="image" src="images/or_NJ.png" />
+  <require type="image" src="images/or_NM.png" />
+  <require type="image" src="images/or_NV.png" />
+  <require type="image" src="images/or_NY.png" />
+  <require type="image" src="images/or_OH.png" />
+  <require type="image" src="images/or_OK.png" />
+  <require type="image" src="images/or_OR.png" />
+  <require type="image" src="images/or_PA.png" />
+  <require type="image" src="images/or_RI.png" />
+  <require type="image" src="images/or_SC.png" />
+  <require type="image" src="images/or_SD.png" />
+  <require type="image" src="images/or_TN.png" />
+  <require type="image" src="images/or_TX.png" />
+  <require type="image" src="images/or_UT.png" />
+  <require type="image" src="images/or_VA.png" />
+  <require type="image" src="images/or_VT.png" />
+  <require type="image" src="images/or_WA.png" />
+  <require type="image" src="images/or_WI.png" />
+  <require type="image" src="images/or_WV.png" />
+  <require type="image" src="images/or_WY.png" />
+  <require type="image" src="images/pl_AR.png" />
+  <require type="image" src="images/pl_AZ.png" />
+  <require type="image" src="images/pl_CO.png" />
+  <require type="image" src="images/pl_CT.png" />
+  <require type="image" src="images/pl_DE.png" />
+  <require type="image" src="images/pl_FL.png" />
+  <require type="image" src="images/pl_IA.png" />
+  <require type="image" src="images/pl_ID.png" />
+  <require type="image" src="images/pl_IL.png" />
+  <require type="image" src="images/pl_IN.png" />
+  <require type="image" src="images/pl_KS.png" />
+  <require type="image" src="images/pl_KY.png" />
+  <require type="image" src="images/pl_LA.png" />
+  <require type="image" src="images/pl_MA.png" />
+  <require type="image" src="images/pl_MI.png" />
+  <require type="image" src="images/pl_MN.png" />
+  <require type="image" src="images/pl_MS.png" />
+  <require type="image" src="images/pl_MT.png" />
+  <require type="image" src="images/pl_ND.png" />
+  <require type="image" src="images/pl_NE.png" />
+  <require type="image" src="images/pl_NH.png" />
+  <require type="image" src="images/pl_NJ.png" />
+  <require type="image" src="images/pl_NM.png" />
+  <require type="image" src="images/pl_NY.png" />
+  <require type="image" src="images/pl_OH.png" />
+  <require type="image" src="images/pl_OK.png" />
+  <require type="image" src="images/pl_OR.png" />
+  <require type="image" src="images/pl_VT.png" />
+  <require type="image" src="images/pl_WA.png" />
+  <require type="image" src="images/pl_WI.png" />
+  <require type="image" src="images/Poster.png" />
+
+  <require type="folder" src="edge_includes" />
+  <require type="folder" src="images" />
+
+
+  <content><![CDATA[
+    <div class="EDGE-10753605"></div>
+  ]]></content>
+   
+  <properties name="Properties">
+    <property name="default-width" defaultValue="960" hidden="true"/>
+    <property name="default-height" defaultValue="424" hidden="true"/>
+    <property name="resizable" defaultValue="false" hidden="true"/>				
+		<property name="centering" defaultValue="none" hidden="true"/>				
+		<property name="scaling" defaultValue="none" hidden="true"/>
+    <property name="html-page" defaultValue="womens_suffrage.html" hidden="true"/>
+  </properties>
+
+</widget>
